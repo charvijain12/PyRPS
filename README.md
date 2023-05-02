@@ -2,10 +2,10 @@
 This is a Python implementation of the classic game Rock-Paper-Scissors. The game is played between two players, where each player chooses one of three options: rock, paper, or scissors. The winner of the game is determined by the following rules:
 
 1. Rock beats scissors
-2. 
-3. Scissors beats paper
-4. 
-5. Paper beats rock
+
+2. Scissors beats paper
+
+3. Paper beats rock
 
 The game can be played against the computer or against another player. The player makes their choice by entering a corresponding number, and the computer's choice is randomly generated. The game then determines the winner based on the rules above and displays the result.
 
